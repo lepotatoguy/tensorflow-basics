@@ -2,7 +2,7 @@
 
 This is a collection of notebooks which will help people learn/revisit Tensorflow.
 
-## Authors
+## Author/Compiler
 
 - [@Joyanta J. Mondal](https://github.com/lepotatoguy)
 
@@ -16,3 +16,4 @@ This is a collection of notebooks which will help people learn/revisit Tensorflo
 
 - [Daniel Bourke](https://www.mrdbourke.com/)
 
+- [হাতেকলমে পাইথন ডিপ লার্নিং ইন্টেলিজেন্ট সিস্টেমের সন্ধানে](https://www.rokomari.com/book/198757/hatekolome-paithon-deep-learning)
